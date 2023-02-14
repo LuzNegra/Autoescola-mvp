@@ -1,4 +1,5 @@
-var requestURL = 'http://127.0.0.1:5500/Json/inflacao.json';
+//var requestURL = 'http://127.0.0.1:5500/Json/inflacao.json';
+var requestURL = 'https://luznegra.github.io/Autoescola-mvp//Json/inflacao.json';
 var request = new XMLHttpRequest();
 var questao;
 request.open('GET', requestURL);
