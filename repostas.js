@@ -28,7 +28,7 @@ function verificarRepostas() {
         }else{
             myHtml += "<p class=\"text_justify\" id=\"correcao\">Você errou</p>";
         }
-        myHtml += "<p class=\"text_justify\" id=\"correto\">A opção correta e a letra " + questao[x]["correta"].toUpperCase() + "</p>";
+        myHtml += "<p class=\"text_justify\" id=\"correto\">A opção correta é a letra " + questao[x]["correta"].toUpperCase() + "</p>";
     }
     repostaedit.innerHTML = myHtml;
     const acertos = document.getElementById("acertos");
