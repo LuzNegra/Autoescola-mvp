@@ -1,5 +1,5 @@
 {
-    "1": {
+    "0": {
         "pergunta": "Dirigir sem portar os documentos exigidos em lei sofrerá:",
         "alternativa": {
             "a": "Multa e remoção do veículo",
@@ -7,9 +7,9 @@
             "c": "Multa e apreensão do veículo",
             "d": "Todas as alternativas estão corretas"
         },
-        "correta": "d"
+        "correta": "c"
     },
-    "2": {
+    "1": {
         "pergunta": "Dirigir veículos para qual não está habilitado sofrerá",
         "alternativa": {
             "a": "Multa e cassação da CNH",
@@ -17,9 +17,9 @@
             "c": "Multa e apreensão do veículo",
             "d": "Multa e recolhimento da CNH e apreensão do veículo"
         },
-        "correta": "c"
+        "correta": "d"
     },
-    "3": {
+    "2": {
         "pergunta": "Para que serve o seguro obrigatório DPVAT?",
         "alternativa": {
             "a": "Indenizar vítimas de acidentes em geral",
@@ -27,9 +27,9 @@
             "c": "Indenizar vítima de acidente de trânsito",
             "d": "Todas as alternativas"
         },
-        "correta": "a"
+        "correta": "d"
     },
-    "4": {
+    "3": {
         "pergunta": "Havendo reincidência da mesma infração dentro de 1 ano a multa será aplicada:",
         "alternativa": {
             "a": "Em quádruplo",
@@ -37,9 +37,9 @@
             "c": "Em dobro",
             "d": "Acompanhada de advertência"
         },
-        "correta": "b"
+        "correta": "a"
     },
-    "5": {
+    "4": {
         "pergunta": "Quais penalidades aplicadas pela legislação de trânsito?",
         "alternativa": {
             "a": "Advertência, multa, cassação da CNH e retenção do veículo",
@@ -47,9 +47,9 @@
             "c": "Retenção, remoção, recolhimento e transbordo",
             "d": "Todas as alternativas"
         },
-        "correta": "c"
+        "correta": "a"
     },
-    "6": {
+    "5": {
         "pergunta": "Qual será a penalidade e medida administrativa adotada para os veículos que estacionarem nas esquinas a menos de cinco metros do alinhamento da via transversal?",
         "alternativa": {
             "a": "Multa e remoção do veículo",
@@ -59,7 +59,7 @@
         },
         "correta": "d"
     },
-    "7": {
+    "6": {
         "pergunta": "Poderá ser aplicada a penalidade de cassação do documento de habilitação:",
         "alternativa": {
             "a": "Quando dirigir ameaçando os pedestres que estejam atravessando a via pública ou demais veículos",
@@ -67,9 +67,9 @@
             "c": "Quando o condutor, estando com o direito de dirigir suspenso, conduzir qualquer veículo",
             "d": "Disputar corrida por espírito de emulação"
         },
-        "correta": "a"
+        "correta": "d"
     },
-    "8": {
+    "7": {
         "pergunta": " O condutor infrator será submetido a curso de reciclagem quando:",
         "alternativa": {
             "a": "Suspenso o direito de dirigir",
@@ -77,9 +77,9 @@
             "c": "Suspensa a sua permissão para dirigir",
             "d": "Cometer qualquer infração de natureza grave"
         },
-        "correta": "b"
+        "correta": "c"
     },
-    "9": {
+    "8": {
         "pergunta": "Quanto a infração e a sua pontuação, é correto afirmar:",
         "alternativa": {
             "a": "Gravíssima 06 pontos, grave 05 pontos, média 04 pontos e leve 03 pontos",
@@ -87,9 +87,9 @@
             "c": "Gravíssima 07 pontos, grave 04 pontos, média 03 pontos e leve 02 pontos",
             "d": "Gravíssima 07 pontos, grave 05 pontos, média 04 pontos e leve 03 pontos"
         },
-        "correta": "c"
+        "correta": "d"
     },
-    "10": {
+    "9": {
         "pergunta": "Gravíssima 07 pontos, grave 05 pontos, média 04 pontos e leve 03 pontos",
         "alternativa": {
             "a": "3",
@@ -97,6 +97,6 @@
             "c": "5",
             "d": "6"
         },
-        "correta": "a"
+        "correta": "b"
     }
 }
