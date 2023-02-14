@@ -10,6 +10,7 @@ request.onload = function() {
 }
 
 var questNumber = 0;
+var minhasRepostas = [10]
 const questPergunta = document.getElementById("text_pergunta");
 const reposta_a = document.getElementById("label_a");
 const reposta_b = document.getElementById("label_b");
@@ -27,12 +28,34 @@ function back(){
     if(questNumber > 0){
         questNumber--;
         mudarPergunta();
+        marcaCheck();
     }
 }
 function next(){
     if(questNumber < maxPerguntas -1){
+        minhasRepostas[questNumber] = document.querySelector('input[name="reposta"]:checked').value;
+        tirarCheck();
         questNumber++
         mudarPergunta();
+    }else{
+        minhasRepostas[questNumber] = document.querySelector('input[name="reposta"]:checked').value;
+        window.sessionStorage.setItem("maxQuestion", maxPerguntas);
+        window.sessionStorage.setItem("repostas", JSON.stringify(minhasRepostas));
+        window.location.href = "./repostas.html";
+    }
+}
+
+const radios = document.getElementsByTagName('input');
+function tirarCheck(){
+    for(x = 0; x < radios.length; x++){
+        radios[x].checked = false;
+    }
+}
+function marcaCheck(){
+    for(x = 0; x < radios.length; x++){
+        if(radios[x].value == minhasRepostas[questNumber]){
+            radios[x].checked = true;
+        }
     }
 }
 function test (){
