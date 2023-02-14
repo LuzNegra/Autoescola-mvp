@@ -7,8 +7,8 @@ request.responseType = 'json';
 request.send()
 request.onload = function() {
     questao = request.response;
+    verificarRepostas();
 }
-verificarRepostas();
 const minhasRepostas = JSON.parse(window.sessionStorage.getItem("repostas"));
 const maxPerguntas = window.sessionStorage.getItem("maxQuestion");
 const repostaedit = document.getElementById("repostaEdit");

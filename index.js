@@ -8,6 +8,7 @@ request.responseType = 'json';
 request.send()
 request.onload = function() {
     questao = request.response;
+    mudarPergunta();
 }
 
 var questNumber = 0;
