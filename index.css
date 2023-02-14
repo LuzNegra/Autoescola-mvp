@@ -2,7 +2,7 @@ body{
     background-color: #F3F781 !important;
 }
 header{
-    background-color: #FE2E2E;
+    background-color: #FA5858;
     color: black;
 }
 .Text_Materia{
@@ -12,7 +12,7 @@ header{
 .Perguntas{
     margin: 1rem;
     border-radius: 30px;
-    background-color: #FE2E2E;
+    background-color: #FA5858;
     padding: 2%;
 }
 .Perguntas .text_justify{
@@ -28,7 +28,7 @@ header{
     color: black;
 }
 .back{
-    background-color: rgb(116, 0, 0);
+    background-color: red;
     color: white;
 }
 .next{
