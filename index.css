@@ -16,7 +16,7 @@ header{
     padding: 2%;
 }
 .Perguntas .text_justify{
-    text-align: justify;
+    text-align: left;
     color: black;
 }
 .Perguntas .text_center{
