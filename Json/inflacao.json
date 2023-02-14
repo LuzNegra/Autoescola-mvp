@@ -1,0 +1,102 @@
+{
+    "1": {
+        "pergunta": "Dirigir sem portar os documentos exigidos em lei sofrerá:",
+        "alternativa": {
+            "a": "Multa e remoção do veículo",
+            "b": "Multa e retenção do veículo",
+            "c": "Multa e apreensão do veículo",
+            "d": "Todas as alternativas estão corretas"
+        },
+        "correta": "d"
+    },
+    "2": {
+        "pergunta": "Dirigir veículos para qual não está habilitado sofrerá",
+        "alternativa": {
+            "a": "Multa e cassação da CNH",
+            "b": "Multa e retenção do veículo",
+            "c": "Multa e apreensão do veículo",
+            "d": "Multa e recolhimento da CNH e apreensão do veículo"
+        },
+        "correta": "c"
+    },
+    "3": {
+        "pergunta": "Para que serve o seguro obrigatório DPVAT?",
+        "alternativa": {
+            "a": "Indenizar vítimas de acidentes em geral",
+            "b": "Cobrir danos materiais em acidentes de trânsito",
+            "c": "Indenizar vítima de acidente de trânsito",
+            "d": "Todas as alternativas"
+        },
+        "correta": "a"
+    },
+    "4": {
+        "pergunta": "Havendo reincidência da mesma infração dentro de 1 ano a multa será aplicada:",
+        "alternativa": {
+            "a": "Em quádruplo",
+            "b": "De forma agravada, e se for o caso, seguida de apreensão da CNH",
+            "c": "Em dobro",
+            "d": "Acompanhada de advertência"
+        },
+        "correta": "b"
+    },
+    "5": {
+        "pergunta": "Quais penalidades aplicadas pela legislação de trânsito?",
+        "alternativa": {
+            "a": "Advertência, multa, cassação da CNH e retenção do veículo",
+            "b": "Advertência, multa, suspensão, cassação da CNH e frequência no curso de reciclagem",
+            "c": "Retenção, remoção, recolhimento e transbordo",
+            "d": "Todas as alternativas"
+        },
+        "correta": "c"
+    },
+    "6": {
+        "pergunta": "Qual será a penalidade e medida administrativa adotada para os veículos que estacionarem nas esquinas a menos de cinco metros do alinhamento da via transversal?",
+        "alternativa": {
+            "a": "Multa e remoção do veículo",
+            "b": "Multa e retenção do veículo",
+            "c": "Multa e apreensão do veículo",
+            "d": "Todas as alternativas estão corretas"
+        },
+        "correta": "d"
+    },
+    "7": {
+        "pergunta": "Poderá ser aplicada a penalidade de cassação do documento de habilitação:",
+        "alternativa": {
+            "a": "Quando dirigir ameaçando os pedestres que estejam atravessando a via pública ou demais veículos",
+            "b": "Dirigir com a CNH vencida há mais de trinta dias",
+            "c": "Quando o condutor, estando com o direito de dirigir suspenso, conduzir qualquer veículo",
+            "d": "Disputar corrida por espírito de emulação"
+        },
+        "correta": "a"
+    },
+    "8": {
+        "pergunta": " O condutor infrator será submetido a curso de reciclagem quando:",
+        "alternativa": {
+            "a": "Suspenso o direito de dirigir",
+            "b": "Cassada a sua permissão para dirigir",
+            "c": "Suspensa a sua permissão para dirigir",
+            "d": "Cometer qualquer infração de natureza grave"
+        },
+        "correta": "b"
+    },
+    "9": {
+        "pergunta": "Quanto a infração e a sua pontuação, é correto afirmar:",
+        "alternativa": {
+            "a": "Gravíssima 06 pontos, grave 05 pontos, média 04 pontos e leve 03 pontos",
+            "b": "Gravíssima 08 pontos, grave 07 pontos, média 05 pontos e leve 03 pontos",
+            "c": "Gravíssima 07 pontos, grave 04 pontos, média 03 pontos e leve 02 pontos",
+            "d": "Gravíssima 07 pontos, grave 05 pontos, média 04 pontos e leve 03 pontos"
+        },
+        "correta": "c"
+    },
+    "10": {
+        "pergunta": "Gravíssima 07 pontos, grave 05 pontos, média 04 pontos e leve 03 pontos",
+        "alternativa": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "correta": "a"
+    }
+}

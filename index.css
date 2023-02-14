@@ -1,0 +1,37 @@
+body{
+    background-color: yellow !important;
+}
+header{
+    background-color: #FE2E2E;
+    color: black;
+}
+.Text_Materia{
+    text-align: center;
+    color: black;
+}
+.Perguntas{
+    margin: 1rem;
+    border-radius: 30px;
+    background-color: #FE2E2E;
+    padding: 2%;
+}
+.Perguntas .text_justify{
+    text-align: justify;
+    color: black;
+}
+.Perguntas .text_center{
+    text-align: center;
+    color: black;
+}
+.respotaCouteiner ul{
+    list-style: none;
+    color: black;
+}
+.back{
+    background-color: rgb(116, 0, 0);
+    color: white;
+}
+.next{
+    background-color: green;
+    color: black;
+}
