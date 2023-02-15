@@ -27,6 +27,9 @@ header{
     list-style: none;
     color: black;
 }
+.respotaCouteiner ul li{
+    text-align: justify;
+}
 .back{
     background-color: red;
     color: white;
