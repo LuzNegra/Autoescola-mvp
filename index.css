@@ -27,9 +27,9 @@ header{
     list-style: none;
     color: black;
 }
-.respotaCouteiner ul li{
+.respotaCouteiner ul li label{
     text-align: justify;
-    display: flex;
+    display: inline;
     width: fixed;
 }
 .back{
