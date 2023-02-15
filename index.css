@@ -29,6 +29,7 @@ header{
 }
 .respotaCouteiner ul li{
     text-align: justify;
+    display: flex;
 }
 .back{
     background-color: red;
