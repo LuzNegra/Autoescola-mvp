@@ -8,7 +8,7 @@
             "c": "Multa e apreensão do veículo",
             "d": "Todas as alternativas estão corretas"
         },
-        "correta": "c"
+        "correta": "b"
     },
     "1": {
         "materia": "INFRAÇÕES DE TRÂNSITO",
@@ -19,7 +19,7 @@
             "c": "Multa e apreensão do veículo",
             "d": "Multa e recolhimento da CNH e apreensão do veículo"
         },
-        "correta": "d"
+        "correta": "b"
     },
     "2": {
         "materia": "INFRAÇÕES DE TRÂNSITO",
@@ -30,7 +30,7 @@
             "c": "Indenizar vítima de acidente de trânsito",
             "d": "Todas as alternativas"
         },
-        "correta": "d"
+        "correta": "c"
     },
     "3": {
         "materia": "INFRAÇÕES DE TRÂNSITO",
@@ -41,7 +41,7 @@
             "c": "Em dobro",
             "d": "Acompanhada de advertência"
         },
-        "correta": "a"
+        "correta": "c"
     },
     "4": {
         "materia": "INFRAÇÕES DE TRÂNSITO",
@@ -52,7 +52,7 @@
             "c": "Retenção, remoção, recolhimento e transbordo",
             "d": "Todas as alternativas"
         },
-        "correta": "a"
+        "correta": "b"
     },
     "5": {
         "materia": "INFRAÇÕES DE TRÂNSITO",
@@ -63,7 +63,7 @@
             "c": "Multa e apreensão do veículo",
             "d": "Todas as alternativas estão corretas"
         },
-        "correta": "d"
+        "correta": "a"
     },
     "6": {
         "materia": "INFRAÇÕES DE TRÂNSITO",
@@ -74,7 +74,7 @@
             "c": "Quando o condutor, estando com o direito de dirigir suspenso, conduzir qualquer veículo",
             "d": "Disputar corrida por espírito de emulação"
         },
-        "correta": "d"
+        "correta": "c"
     },
     "7": {
         "materia": "INFRAÇÕES DE TRÂNSITO",
@@ -85,7 +85,7 @@
             "c": "Suspensa a sua permissão para dirigir",
             "d": "Cometer qualquer infração de natureza grave"
         },
-        "correta": "c"
+        "correta": "a"
     },
     "8": {
         "materia": "INFRAÇÕES DE TRÂNSITO",
