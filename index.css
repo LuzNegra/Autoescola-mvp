@@ -30,6 +30,7 @@ header{
 .respotaCouteiner ul li{
     text-align: justify;
     display: flex;
+    width: fixed;
 }
 .back{
     background-color: red;
