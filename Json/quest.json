@@ -1,5 +1,6 @@
 {
     "0": {
+        "materia": "INFRAÇÕES DE TRÂNSITO",
         "pergunta": "Dirigir sem portar os documentos exigidos em lei sofrerá:",
         "alternativa": {
             "a": "Multa e remoção do veículo",
@@ -10,6 +11,7 @@
         "correta": "c"
     },
     "1": {
+        "materia": "INFRAÇÕES DE TRÂNSITO",
         "pergunta": "Dirigir veículos para qual não está habilitado sofrerá",
         "alternativa": {
             "a": "Multa e cassação da CNH",
@@ -20,6 +22,7 @@
         "correta": "d"
     },
     "2": {
+        "materia": "INFRAÇÕES DE TRÂNSITO",
         "pergunta": "Para que serve o seguro obrigatório DPVAT?",
         "alternativa": {
             "a": "Indenizar vítimas de acidentes em geral",
@@ -30,6 +33,7 @@
         "correta": "d"
     },
     "3": {
+        "materia": "INFRAÇÕES DE TRÂNSITO",
         "pergunta": "Havendo reincidência da mesma infração dentro de 1 ano a multa será aplicada:",
         "alternativa": {
             "a": "Em quádruplo",
@@ -40,6 +44,7 @@
         "correta": "a"
     },
     "4": {
+        "materia": "INFRAÇÕES DE TRÂNSITO",
         "pergunta": "Quais penalidades aplicadas pela legislação de trânsito?",
         "alternativa": {
             "a": "Advertência, multa, cassação da CNH e retenção do veículo",
@@ -50,6 +55,7 @@
         "correta": "a"
     },
     "5": {
+        "materia": "INFRAÇÕES DE TRÂNSITO",
         "pergunta": "Qual será a penalidade e medida administrativa adotada para os veículos que estacionarem nas esquinas a menos de cinco metros do alinhamento da via transversal?",
         "alternativa": {
             "a": "Multa e remoção do veículo",
@@ -60,6 +66,7 @@
         "correta": "d"
     },
     "6": {
+        "materia": "INFRAÇÕES DE TRÂNSITO",
         "pergunta": "Poderá ser aplicada a penalidade de cassação do documento de habilitação:",
         "alternativa": {
             "a": "Quando dirigir ameaçando os pedestres que estejam atravessando a via pública ou demais veículos",
@@ -70,6 +77,7 @@
         "correta": "d"
     },
     "7": {
+        "materia": "INFRAÇÕES DE TRÂNSITO",
         "pergunta": " O condutor infrator será submetido a curso de reciclagem quando:",
         "alternativa": {
             "a": "Suspenso o direito de dirigir",
@@ -80,6 +88,7 @@
         "correta": "c"
     },
     "8": {
+        "materia": "INFRAÇÕES DE TRÂNSITO",
         "pergunta": "Quanto a infração e a sua pontuação, é correto afirmar:",
         "alternativa": {
             "a": "Gravíssima 06 pontos, grave 05 pontos, média 04 pontos e leve 03 pontos",
@@ -90,6 +99,7 @@
         "correta": "d"
     },
     "9": {
+        "materia": "INFRAÇÕES DE TRÂNSITO",
         "pergunta": "A pontuação de uma infração de natureza média é:",
         "alternativa": {
             "a": "3",
