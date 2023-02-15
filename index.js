@@ -24,7 +24,7 @@ function mudarPergunta(){
     materia.innerHTML = questao[questNumber]["materia"];
     questPergunta.innerHTML = questNumber + 1 +") " + questao[questNumber]["pergunta"];
     if(questao[questNumber]["imagem"] != undefined){
-        questPergunta.innerHTML += "<br><br><img src=" + questao[questNumber]["imagem"] + "\ alt="+ JSON.stringify(questao[questNumber]["imgDescricao"]) + " class=\"myimg\" id=\"myimg\">"
+        questPergunta.innerHTML += "<br><img src=" + questao[questNumber]["imagem"] + "\ alt="+ JSON.stringify(questao[questNumber]["imgDescricao"]) + " class=\"myimg\" id=\"myimg\">"
     }
     reposta_a.innerHTML = "A) " + questao[questNumber]["alternativa"]["a"];
     reposta_b.innerHTML = "B) " + questao[questNumber]["alternativa"]["b"];
