@@ -108,5 +108,243 @@
             "d": "6"
         },
         "correta": "b"
+    },
+    "10": {
+        "materia": "PLACAS",
+        "pergunta": "A Placa R-34 Determina:",
+        "alternativa": {
+            "a": "Proibido Trânsito de Bicicletas.",
+            "b": "Proibido trânsito de caminhões.",
+            "c": "Circulação exclusiva de bicicletas.",
+            "d": "Proibido ultrapassar."
+        },
+        "imagem": "https://www.aprovadetran.com.br/questions/categorized/regulamentacao/Placas-de-transito-Aprova-Detran-circulacao-exclusiva-de-bicicletas-R-34.png",
+        "imgDescricao": "Placa R-34",
+        "correta": "c"
+    },
+    "11": {
+        "materia": "PLACAS",
+        "pergunta": "Diante a placa A-40, você entende que existe:",
+        "alternativa": {
+            "a": "Uma barreira apenas.",
+            "b": "Adiante uma passagem de nível.",
+            "c": "Uma passagem para veículos.",
+            "d": "Adiante um cruzamento com linha férrea em nível, com barreira."
+        },
+        "imagem": "https://www.aprovadetran.com.br/questions/categorized/advertencia/Placas-de-transito-Aprova-Detran-passagem-de-nivel-com-barreira-A-40.png",
+        "imgDescricao": "Placa A-40",
+        "correta": "d"
+    },
+    "12": {
+        "materia": "PLACAS",
+        "pergunta": "Esta placa indica ao usuário da via, sobre locais de:",
+        "alternativa": {
+            "a": "Serviços gerais.",
+            "b": "Terminal de ônibus.",
+            "c": "Obras.",
+            "d": "Atrativos turísticos."
+        },
+        "imagem": "https://www.aprovadetran.com.br/questions/categorized/turisticas/Placas-de-transito-Aprova-Detran-atrativos-turisticos-naturais-praia.png",
+        "imgDescricao": "Placa de Atrativos turisticos naturais praia",
+        "correta": "d"
+    },
+    "13": {
+        "materia": "PLACAS",
+        "pergunta": "Diante da placa R24b, você entende que:",
+        "alternativa": {
+            "a": "A passagem é obrigatória.",
+            "b": "A passagem não é obrigatória.",
+            "c": "Que a passagem é opcional.",
+            "d": "A passagem é apenas pela esquerda."
+        },
+        "imagem": "https://www.aprovadetran.com.br/questions/categorized/regulamentacao/Placas-de-transito-Aprova-Detran-passagem-obrigatoria-R-24b.png",
+        "imgDescricao": "Placa R-24b",
+        "correta": "a"
+    },
+    "14": {
+        "materia": "PLACAS",
+        "pergunta": "A placa A-38 adverte:",
+        "alternativa": {
+            "a": "Largura limitada.",
+            "b": "Ponte imóvel.",
+            "c": "Parada obrigatória a frente.",
+            "d": "Altura limitada."
+        },
+        "imagem": "https://www.aprovadetran.com.br/questions/categorized/advertencia/Placas-de-transito-Aprova-Detran-largura-limitada-A-38.png",
+        "imgDescricao": "Placa A-38",
+        "correta": "a"
+    },
+    "15": {
+        "materia": "PLACAS",
+        "pergunta": "Diante da placa A-15, você entende que:",
+        "alternativa": {
+            "a": "Cruzamento perigoso.",
+            "b": "Parada obrigatória.",
+            "c": "Via preferencial à frente.",
+            "d": "Parada obrigatória á frente."
+        },
+        "imagem": "https://www.aprovadetran.com.br/questions/categorized/advertencia/Placas-de-transito-Aprova-Detran-parada-obrigatoria-a-frente-A-15.png",
+        "imgDescricao": "Placa A-15",
+        "correta": "d"
+    },
+    "16": {
+        "materia": "PLACAS",
+        "pergunta": "Diante da placa A-42a, você entende que:",
+        "alternativa": {
+            "a": "Vai encontrar mão única adiante",
+            "b": "Pista dupla se inicia a 200m.",
+            "c": "Ha obras na pista.",
+            "d": "Adiante existe um canteiro central que passa para dividir os fluxos de tráfego opostos."
+        },
+        "imagem": "https://www.aprovadetran.com.br/questions/categorized/advertencia/Placas-de-transito-Aprova-Detran-inicio-de-pista-dupla-A-42a.png",
+        "imgDescricao": "Placa A-42a",
+        "correta": "d"
+    },
+    "17": {
+        "materia": "PLACAS",
+        "pergunta": "Diante da placa S-10, você entende que:",
+        "alternativa": {
+            "a": "Existe uma tribo de índio Xingu.",
+            "b": "Existe uma tribo de índio Xingu.",
+            "c": "Existe uma área de campismo.",
+            "d": "Existe Chalé."
+        },
+        "imagem": "https://www.aprovadetran.com.br/questions/categorized/educativas-e-auxiliares/Placas-de-transito-Aprova-Detran-placa-de-servicos-auxiliares-area-de-campismo.png",
+        "imgDescricao": "Placa S-10",
+        "correta": "c"
+    },
+    "18": {
+        "materia": "PLACAS",
+        "pergunta": "As marcas separadoras de faixas de trânsito em linha contínua indicam ultrapassagem:",
+        "alternativa": {
+            "a": "Proibida em retas.",
+            "b": "Permitida.",
+            "c": "Proibida pela esquerda.",
+            "d": "Proibida em ambos os lados."
+        },
+        "imagem": "http://1.bp.blogspot.com/-YIXdwoWLAdI/UAx25V7JyRI/AAAAAAAAAE4/ebRIdqwMR2Q/s1600/Modelo1.jpg",
+        "imgDescricao": "Imagem sobre faixas",
+        "correta": "d"
+    },
+    "19": {
+        "materia": "PLACAS",
+        "pergunta": "As placas de advertência estão postas nas vias no sentido vertical e tem um formato quadrado, e que estão associadas as cores amarela e preta, e que todo condutor deverá observa - las para:",
+        "alternativa": {
+            "a": "Evitar danos ao veículo.",
+            "b": "Saber mais dos perigos que existem na via e sua natureza.",
+            "c": "Conhecer a velocidade máxima da via.",
+            "d": "Fazer ultrapassagens."
+        },
+        "correta": "b"
+    },
+    "20": {
+        "materia": "LEGISLAÇÃO DE TRÂNSITO",
+        "pergunta": "Aproximar-se de um cruzamento de forma segura é:",
+        "alternativa": {
+            "a": "Manter a mesma velocidade.",
+            "b": "Manter a mesma velocidade.",
+            "c": "Parar o veiculo.",
+            "d": "Acionar as luzes de emergência."
+        },
+        "correta": "b"
+    },
+    "21": {
+        "materia": "LEGISLAÇÃO DE TRÂNSITO",
+        "pergunta": "Quando a via apresentar várias faixas no mesmo sentido:",
+        "alternativa": {
+            "a": "A da direita será destinada á ultrapassagem e deslocamento de veículos de maior velocidade.",
+            "b": "A da esquerda será destinada á ultrapassagem e deslocamento de veículos de maior velocidade.",
+            "c": "A da esquerda será destinada á ultrapassagem e deslocamento de veículos de transporte coletivo.",
+            "d": " A da direita será destinada ás motocicletas e veículos com maior velocidade."
+        },
+        "correta": "b"
+    },
+    "22": {
+        "materia": "LEGISLAÇÃO DE TRÂNSITO",
+        "pergunta": " O condutor para fazer a ultrapassagem de outro veículo em movimento, deverá:",
+        "alternativa": {
+            "a": "Buzinar e forçar a saída do que estiver é sua frente para um lado",
+            "b": "Acender os faróis altos de seu veículo para chamar a atenção dos outros veículos.",
+            "c": "Certificar-se que dispões de espaços suficientes e de que a visibilidade lhe permite fazê-la com segurança.",
+            "d": "Aumentar bastante a sua velocidade."
+        },
+        "correta": "c"
+    },
+    "23": {
+        "materia": "LEGISLAÇÃO DE TRÂNSITO",
+        "pergunta": "Via sinalizada com duas linhas, sendo a primeira á sua esquerda tracejada e a segunda contínua, indica que é possível:",
+        "alternativa": {
+            "a": "Ultrapassar outro veículo pela esquerda quando as condições forem favoráveis.",
+            "b": "Ultrapassar outro veículo pela direita quando as condições forem favoráveis.",
+            "c": "Fazer um retorno para o lado direito da via",
+            "d": "Fazer um retorno para o lado esquerdo da via"
+        },
+        "correta": "a"
+    },
+    "24": {
+        "materia": "LEGISLAÇÃO DE TRÂNSITO",
+        "pergunta": " A via que possui acessos especiais, trânsito livre e sem travessia de pedestre e em nível, sem acesso direto a lotes lindeiros, é uma via:",
+        "alternativa": {
+            "a": "Arterial",
+            "b": "Coletora",
+            "c": "Trânsito Rápido",
+            "d": "Rodovia"
+        },
+        "correta": "c"
+    },
+    "25": {
+        "materia": "LEGISLAÇÃO DE TRÂNSITO",
+        "pergunta": "Em local permitido, deve-se estacionar:",
+        "alternativa": {
+            "a": "A menos de 3 metros das esquinas.",
+            "b": "A partir de 10 metros das esquinas.",
+            "c": "De acordo com o espaço existente.",
+            "d": "A mais de cinco metros do bordo de alinhamento da via transversal."
+        },
+        "correta": "d"
+    },
+    "26": {
+        "materia": "LEGISLAÇÃO DE TRÂNSITO",
+        "pergunta": "A preferência nos cruzamentos sem sinalizações é dos veículos que:",
+        "alternativa": {
+            "a": "Estiverem desenvolvendo maior velocidade.",
+            "b": "Vierem pela direita.",
+            "c": "Piscarem os faróis e buzinarem.",
+            "d": "Vierem pela rua mais larga."
+        },
+        "correta": "b"
+    },
+    "27": {
+        "materia": "LEGISLAÇÃO DE TRÂNSITO",
+        "pergunta": "Permite-se o uso do pisca alerta:",
+        "alternativa": {
+            "a": "Em situações de emergência com o veículo parado",
+            "b": "Nas operações de Carga e Descarga",
+            "c": "Em breves paradas de fila dupla",
+            "d": "Em breves paradas de fila dupla"
+        },
+        "correta": "a"
+    },
+    "28": {
+        "materia": "LEGISLAÇÃO DE TRÂNSITO",
+        "pergunta": "A velocidade máxima permitida nas rodovias de pista simples, para automóveis, camionetas e motocicletas, quando não houver sinalização regulamentadora é:",
+        "alternativa": {
+            "a": "80 km/h.",
+            "b": "90 km/h.",
+            "c": "100 km/h.",
+            "d": "110 km/h."
+        },
+        "correta": "c"
+    },
+    "29": {
+        "materia": "LEGISLAÇÃO DE TRÂNSITO",
+        "pergunta": "Transitar em marcha á ré é:",
+        "alternativa": {
+            "a": "Permitido para sair de congestionamento.",
+            "b": "Permitido, somente nas vias de mão única.",
+            "c": "Permitido apenas nas vias sinalizadas.",
+            "d": "Permitidos somente para pequenas manobras."
+        },
+        "correta": "d"
     }
 }

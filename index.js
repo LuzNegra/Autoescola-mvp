@@ -1,6 +1,6 @@
-const maxPerguntas = 10;
-var requestURL = 'http://127.0.0.1:5500/Json/quest.json';
-//var requestURL = 'https://luznegra.github.io/Autoescola-mvp//Json/quest.json';
+var maxPerguntas;
+//var requestURL = 'http://127.0.0.1:5500/Json/quest.json';
+var requestURL = 'https://luznegra.github.io/Autoescola-mvp//Json/quest.json';
 var request = new XMLHttpRequest();
 var questao;
 request.open('GET', requestURL);
@@ -8,11 +8,12 @@ request.responseType = 'json';
 request.send()
 request.onload = function() {
     questao = request.response;
+    maxPerguntas = Object.keys(questao).length
     mudarPergunta();
 }
 
 var questNumber = 0;
-var minhasRepostas = [10]
+var minhasRepostas = [maxPerguntas]
 const materia =document.getElementById("materia");
 const questPergunta = document.getElementById("text_pergunta");
 const reposta_a = document.getElementById("label_a");
@@ -22,6 +23,9 @@ const reposta_d = document.getElementById("label_d");
 function mudarPergunta(){
     materia.innerHTML = questao[questNumber]["materia"];
     questPergunta.innerHTML = questNumber + 1 +") " + questao[questNumber]["pergunta"];
+    if(questao[questNumber]["imagem"] != undefined){
+        questPergunta.innerHTML += " <img src=" + questao[questNumber]["imagem"] + "\ alt="+ JSON.stringify(questao[questNumber]["imgDescricao"]) + " class=\"myimg\" id=\"myimg\">"
+    }
     reposta_a.innerHTML = "A) " + questao[questNumber]["alternativa"]["a"];
     reposta_b.innerHTML = "B) " + questao[questNumber]["alternativa"]["b"];
     reposta_c.innerHTML = "C) " + questao[questNumber]["alternativa"]["c"];
